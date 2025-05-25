@@ -60,10 +60,7 @@
   <a href="https://instagram.com/am4nxwz" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="am4nxwz" height="30" width="40" />
   </a>
-  <a href="https://discord.com/channels/854904142187069450/855408617880682496" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aman's Discord" height="30" width="40" />
-  </a>
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aman-chaudhary-2811b5267/)" target="blank">
+  <a href="https://www.linkedin.com/in/aman-chaudhary-2811b5267/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourprofile" height="30" width="40" />
   </a>
 </p>
