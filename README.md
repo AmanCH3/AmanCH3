@@ -14,6 +14,8 @@
 - 💬 Ask me about Java, Spring Boot, or React
 - 📫 How to reach me: **amanxchau1@gmail.com**
 
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 🛠 Tech Stack
 #### Languages
 <p>
