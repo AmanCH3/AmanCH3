@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 🙏, I'm Aman Chaudhary</h1>
-<h3 align="center">Full Stack Developer | Data Enthusiast</h3>
+<h3 align="center">Data Enthusiast</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=amanch3&label=Profile%20views&color=0e75b6&style=flat" alt="amanch3" /> 
@@ -9,9 +9,9 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🔭 I'm passionate about building robust backend systems and intuitive frontend interfaces
+- 🔭 I'm passionate about building robust backend systems and data modeling , scraping the data from different sites 
 - 🌱 Currently exploring data visualization and analytics
-- 💬 Ask me about Java, Spring Boot, or React
+- 💬 Ask me about Python , Power BI , Human Behaviour
 - 📫 How to reach me: **amanxchau1@gmail.com**
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
